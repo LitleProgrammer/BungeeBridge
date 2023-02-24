@@ -1,0 +1,7 @@
+name: BungeeBridge
+version: '${project.version}'
+main: de.littleprogrammer.bungeebridge.Main
+api-version: 1.16
+authors: [ LittleProgrammer ]
+description: Uses Redis to send and recieve data from and to other servers
+website: lpmc.me
