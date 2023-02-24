@@ -49,4 +49,8 @@ public final class Main extends JavaPlugin {
     public static Main getInstance() {
         return instance;
     }
+
+    public JedisPooled getJedis() {
+        return jedis;
+    }
 }
